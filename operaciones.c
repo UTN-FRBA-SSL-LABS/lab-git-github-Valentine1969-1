@@ -10,6 +10,7 @@ int sumar(int a, int b) {
 /* ── restar — ya implementada ────────────────────────────────────────────── */
 
 int restar(int a, int b) {
+    /* Resta dos enteros y devuelve el resultado */
     return a - b;
 }
 
